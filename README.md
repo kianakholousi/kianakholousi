@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kianakholousi
 - I’m interested in software programming, computer science, robotics, AI, literature, mythology, music.
-- I’m currently learning C#, python, javaScript, SCC &...
+- I’m currently learning C#, python, swift &...
 - I’m not currently doing a project, but I’m open to new ideas 
 - 📫 you can reach me at kianakholousi@gmail.com
