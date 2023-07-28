@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kianakholousi
-- I’m interested in software programming, computer science, robotics, AI, Embedded systems, literature, mythology, and music.
-- I’m skilled in C, C++, java, python, C# and familiar with kotlin, SQL, PHP, HTML
+- I’m interested in software development, computer science, robotics, AI, and Embedded systems.
+- I’m skilled in C, C++, java, python, GO, and SQL and familiar with C#, kotlin, PHP, and HTML.
 - I’m not currently doing a project, but I’m open to new ideas 
 - 📫 you can reach me at kianakholousi@gmail.com
